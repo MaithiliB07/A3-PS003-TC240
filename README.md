@@ -9,9 +9,9 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 | **Team Name** | PONTIAC BANDITS |
 | **Team Code** | `A3-PS003-TC240` |
 | **Hackathon** | AIORI-3 Hackathon 2026 |
-| **Problem Statement ID** | |
-| **Problem Statement Title** | |
-| **Problem Statement Category** | |
+| **Problem Statement ID** |PS-003 |
+| **Problem Statement Title** | FEDERATED TRAFFIC-FLOW PREDICTION WITH COMMUNICATION - COST EVALUATION |
+| **Problem Statement Category** | SMART CITIES  |
 
 ---
 
