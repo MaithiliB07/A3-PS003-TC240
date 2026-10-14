@@ -19,8 +19,8 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 
 | S. No. | Name | Role |
 |---:|---|---|
-| 1 | Maithili Bhise | Team Member |
-| 2 | Kasturi Tembhare | Team Member |
+| 1 |  Kasturi Tembhare | Team Member |
+| 2 | maithili bhise | Team Member |
 | 3 | Pakhi Chaturvedi | Team Member |
 
 ---
